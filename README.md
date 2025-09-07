@@ -1,3 +1,4 @@
+![alt text](https://github.com/Strange_14M605/Strange_14M605/blob/main/welcome.svg?raw=true)
 ## Hello! I'm Jova.
 
 <!--
