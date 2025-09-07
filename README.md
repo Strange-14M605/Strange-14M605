@@ -1,4 +1,4 @@
-![Welcome](https://github.com/Strange_14M605/Strange_14M605/blob/main/welcome.svg?raw=true)
+![Welcome](https://github.com/Strange_14M605/Strange_14M605/blob/main/welcome.png?raw=true)
 
 ## Hello! I'm Jova.
 
