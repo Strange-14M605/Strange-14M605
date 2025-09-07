@@ -1,21 +1,15 @@
-![Welcome](https://github.com/Strange_14M605/Strange_14M605/blob/main/welcome.png?raw=true)
 
-## Hello! I'm Jova.
+<img width="3067" height="260" alt="welcome" src="https://github.com/user-attachments/assets/8b4a717d-6745-4303-acc9-e6eb6ab752f4" />
 
-<!--
-**Strange-14M605/Strange-14M605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Jova here!
 
-Here are some ideas to get you started:
+🔭 Current work: Titanic Dataset Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Current study: Solving DSA problems
+
+📖 Current read: -
+  
+### 📫 How to reach me: jova16.2004@gmail.com
 
 #### 🛠️ Technical Stack
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
