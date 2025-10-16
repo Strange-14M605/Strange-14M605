@@ -1,15 +1,8 @@
 
 <img width="3067" height="260" alt="welcome" src="https://github.com/user-attachments/assets/8b4a717d-6745-4303-acc9-e6eb6ab752f4" />
 
-## Jova here!
-
-🔭 Current work: Titanic Dataset Analysis
-
-🌱 Current study: Solving DSA problems
-
-📖 Current read: -
-  
-### 📫 How to reach me: jova16.2004@gmail.com
+## Jova here!  
+## 📫 How to reach me: jova16.2004@gmail.com
 
 #### 🛠️ Technical Stack
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
